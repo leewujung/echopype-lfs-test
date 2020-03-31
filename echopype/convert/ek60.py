@@ -25,7 +25,7 @@ INDEX2POWER = (10.0 * np.log10(2.0) / 256.0)
 
 # Create a constant to convert from indexed angles to electrical angles.
 INDEX2ELEC = 180.0 / 128.0
-
+# ADD A RANDOM LINE
 
 class ConvertEK60(ConvertBase):
     """Class for converting EK60 .raw files."""
