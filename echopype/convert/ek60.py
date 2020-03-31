@@ -22,6 +22,7 @@ del get_versions
 
 # Create a constant to convert indexed power to power.
 INDEX2POWER = (10.0 * np.log10(2.0) / 256.0)
+# ADD A RANDOM LNIE
 
 # Create a constant to convert from indexed angles to electrical angles.
 INDEX2ELEC = 180.0 / 128.0
